@@ -18,3 +18,16 @@ To get an idea of how the list performs I've been able to run the list at a stab
 - SSD: M.2 NVMe drive
 
 My specs are fairly high end, but again the mentioned performance was at a native resolution at a locked 60fps. With DLSS/FSR you should be fine with a weaker GPU. I don't have a minimum specs section because it would be hard to calculate that without any data. If you try the list, please report any performance issues!
+
+## Installation Guide
+Follow these steps to install Stormcrown VR and embark on your enhanced Skyrim journey:
+
+1. **Preparation:** Ensure Skyrim is installed on your computer. (Make sure you do NOT install the Anniversary Edition Creations) 
+
+3. **Language Setting:** Set the language of Skyrim to English (Wabbajack will not work otherwise)
+
+4. **Wabbajack Installation:** Download [Wabbajack]([url](https://www.wabbajack.org/)) from the official website and install it.
+
+5. **Installation Process:** Select "Browse Modlists" and search for Thundercrown, make sure the "show unofficial lists" option is enabled, press the download button and the the play button. Set the output and downloads folders, then initiate the installation process.
+
+6. **Post Installation:** Once installation is complete, open the installation folder and launch "Mod Organizer 2.exe". Once open, you can immediately hit "Run". 
