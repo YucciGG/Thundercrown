@@ -26,7 +26,7 @@ To install Thundercrown, follow the steps below:
 
 3. **Language Setting:** Set the language of Skyrim to English (Wabbajack will not work otherwise)
 
-4. **Wabbajack Installation:** Download [Wabbajack]([url](https://www.wabbajack.org/)) from the official website and install it.
+4. **Wabbajack Installation:** Download [Wabbajack](https://www.wabbajack.org/) from the official website and install it.
 
 5. **Installation Process:** Select "Browse Modlists" and search for Thundercrown, make sure the "show unofficial lists" option is enabled, press the download button and the the play button. Set the output and downloads folders, then initiate the installation process.
 
