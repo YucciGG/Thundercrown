@@ -20,7 +20,7 @@ To get an idea of how the list performs I've been able to run the list at a stab
 My specs are fairly high end, but again the mentioned performance was at a native resolution at a locked 60fps. With DLSS/FSR you should be fine with a weaker GPU. I don't have a minimum specs section because it would be hard to calculate that without any data. If you try the list, please report any performance issues!
 
 ## Installation Guide
-Follow these steps to install Stormcrown VR and embark on your enhanced Skyrim journey:
+To install Thundercrown, follow the steps below:
 
 1. **Preparation:** Ensure Skyrim is installed on your computer. (Make sure you do NOT install the Anniversary Edition Creations) 
 
